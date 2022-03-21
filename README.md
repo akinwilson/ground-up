@@ -1,3 +1,3 @@
 # From numpy arrays to tensorflow tensors: Computational graphs from the ground up
 
-Machine learning is about finding implicit structure in data an exploiting it. This repository contains samples that motivate the need for _deep learning_; a subset of machine learning techniques. Deep learning makes use of non linearities within their architectures to over come the issues associated with target spaces that are not linearly separable (for the case of supervised learning). 
+Machine learning is about finding implicit structure in data an exploiting it. This repository contains samples that motivate the need for _deep learning_; a subset of machine learning techniques. Deep learning makes use of non linearities within their architectures to over come the issues associated with target spaces that are not [linearly separable](https://en.wikipedia.org/wiki/Linear_separability) (for the case of supervised learning)
